@@ -1,6 +1,6 @@
-# NodeSchool: JavaScripting
+# NodeSchool: Node.js
 
-Completed lessons from NodeSchool's [lesson on JS](https://github.com/sethvincent/javascripting)
+Completed lessons from NodeSchool's [lesson on JS](https://www.github.com/workshopper/learnyounode)
 
 -- Ky-Cuong Huynh
 
