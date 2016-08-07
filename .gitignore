@@ -2,3 +2,5 @@ correct-callbacks-es6.js
 correct-callbacks.js
 incorrect-callbacks.js
 num.txt
+.vscode/*
+.idea/*
